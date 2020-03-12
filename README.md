@@ -16,7 +16,7 @@ I was able to get the model to an accuracy of about 72.48% using a keras sequent
 
 # Future exploration ideas
 
-This has been one of the many interesting problem statements i have had recently. Also I ahd to look about & understand what exactly is meant by `entailments`. It was a good learning. Goiing forward I'd like to try out ensemble technique with the basic ML classifiers and also try out experimenting with other architecture of Neural Nets. The neural net architecture I have used is quite similar (with some differneces ofcourse) to any neural net that would be used for basic classification tasks like sentiment analysis, etc.
+This has been one of the many interesting problem statements i have had recently. Also I had to look about & understand what exactly is meant by `entailments`. It was a good learning. Going forward I'd like to try out ensemble technique with the basic ML classifiers and also try out experimenting with other architecture of Neural Nets. The neural net architecture I have used is quite similar (with some differneces ofcourse) to any neural net that would be used for basic classification tasks like sentiment analysis, etc.
 I tried a CNN architecture with just 1 layer of convolution & 1 max pooling, going forward I'd like to experiment with some tweaks on that architecture as well.
 
 
